@@ -9,7 +9,6 @@ export function ExperienceBar() {
                 <span className={styles.currentExperience} style={{ left: '50%' }}>300 xp</span>
             </div>
             <span>600 xp</span>
-            <button></button>
         </header>
     );
 }
