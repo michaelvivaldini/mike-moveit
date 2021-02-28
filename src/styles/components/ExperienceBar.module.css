@@ -6,6 +6,7 @@
 
 .experienceBar span {
   font-size: 1rem;
+  flex-wrap: nowrap;
 }
 
 .experienceBar > div {
